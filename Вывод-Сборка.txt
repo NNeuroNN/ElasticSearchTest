@@ -1,0 +1,5 @@
+﻿1>------ Сборка начата: проект: ElasticSearchTest, Конфигурация: Debug Any CPU ------
+1>docker exec -i 7ec0aa199748a895278daa7f055e205fcb4f5e4d2b6bdc6c5de2e148cc0fd715 C:\remote_debugger\x64\utils\KillProcess.exe dotnet.exe
+1>no such container
+1>ElasticSearchTest -> C:\Users\Алексей\source\repos\ElasticSearchTest\ElasticSearchTest\bin\Debug\netcoreapp2.1\ElasticSearchTest.dll
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
